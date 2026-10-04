@@ -1,0 +1,25 @@
+name: Update Latest Repositories List
+
+on:
+  schedule:
+    # Runs automatically every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows manual trigger anytime from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Recent Repositories List
+        uses: Readme-Workflows/recent-repo-list@v1.0.0
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LINES: 5 # Number of repositories to list
+          COMMENT_START: "<!-- RECENT_REPOS_START -->"
+          COMMENT_END: "<!-- RECENT_REPOS_END -->"
