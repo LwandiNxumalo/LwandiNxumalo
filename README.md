@@ -49,6 +49,11 @@
 
 ---
 
+### ⚡ Recent Activity
+
+<!-- RECENT_ACTIVITY:START -->
+<!-- RECENT_ACTIVITY:END -->
+
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**  
