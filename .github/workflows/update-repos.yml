@@ -2,9 +2,8 @@ name: Update Latest Repositories List
 
 on:
   schedule:
-    # Runs automatically every 12 hours
     - cron: '0 */12 * * *'
-  workflow_dispatch: # Allows manual trigger anytime from the Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,9 +16,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update Recent Repositories List
-        uses: Readme-Workflows/recent-repo-list@v1.0.0
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_LINES: 5 # Number of repositories to list
-          COMMENT_START: "<!-- RECENT_REPOS_START -->"
-          COMMENT_END: "<!-- RECENT_REPOS_END -->"
+          feed_list: "https://github.com/LwandiNxumalo.atom"
+          max_post_count: 5
+          comment_tag_name: "RECENT_REPOS"
