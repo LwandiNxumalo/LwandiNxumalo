@@ -1,7 +1,6 @@
 # 💫 About Me:
 # Hi there, I'm Xolani Lwandile Nxumalo 👋<br><br>🎓 **BSc Information Technology Student** at North-West University  <br>🚀 Aspiring **Data Scientist** & **Full-Stack Software Developer**  <br>📍 South Africa<br><br>---<br><br>### 💫 About Me<br><br>* 🏫 Currently in my **3rd year** pursuing a Bachelor of Science in Information Technology.<br>* 💡 Passions include **Data Science, Relational & Distributed Databases, and Software Development**.<br>* 🛠️ Building cross-platform mobile apps, web solutions, and managing automated workflows.<br>* 🌐 Passionate about bridging tech accessibility through code and multilingual concept sharing.<br>* ⚡ Fun fact: Always exploring Linux command line tools and building practical software utilities.<br><br>---
 
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lwandi-xolani-nxumalo-aa9914360) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xolanilwandile3@gmail.com) 
@@ -28,15 +27,18 @@ Click on any project badge below to view the repository or live site!
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=LwandiNxumalo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LwandiNxumalo&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
+![LwandiNxumalo GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LwandiNxumalo&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LwandiNxumalo&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=LwandiNxumalo&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" alt="LwandiNxumalo Contributor Stats" />
+</p>
 
 ---
-[![Visitor Counter](https://komarev.com/ghpvc/?username=LwandiNxumalo&icon=6&color=5)]((https://github.com/LwandiNxumalo))
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LwandiNxumalo&color=0075ff&style=for-the-badge" alt="Visitor Counter" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
