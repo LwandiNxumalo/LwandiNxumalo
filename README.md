@@ -39,8 +39,8 @@
 
 ### 📂 Latest Repositories
 
-<!-- RECENT_REPOS_START -->
-<!-- RECENT_REPOS_END -->
+<!-- RECENT_REPOS:START -->
+<!-- RECENT_REPOS:END -->
 
 ---
 
@@ -73,10 +73,6 @@
 ### 🏆 Achievements & GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LwandiNxumalo&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LwandiNxumalo&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LwandiNxumalo&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
@@ -91,10 +87,4 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LwandiNxumalo&color=0075ff&style=for-the-badge" alt="Visitor Counter" />
 </p>
