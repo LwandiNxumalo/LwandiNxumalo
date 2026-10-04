@@ -59,6 +59,8 @@
 5. 💪 Opened PR [#78](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/78) in [Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System)
 <!--END_SECTION:activity-->
 
+---
+
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**  
