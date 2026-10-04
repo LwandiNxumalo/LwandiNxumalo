@@ -49,10 +49,10 @@
 
 ---
 
-### ⚡ Recent Activity
+### ⚡ Recent Contribution Log
 
-<!-- RECENT_ACTIVITY:START -->
-<!-- RECENT_ACTIVITY:END -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ### 🛠️ Tech Stack
 
