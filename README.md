@@ -1,18 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0075FF&center=true&vCenter=true&width=600&lines=Xolani+Lwandile+Nxumalo+%F0%9F%91%8B" alt="Name Animation" />
-</h1>
-
 <p align="center">
-  🎓 <b>BSc Information Technology Student</b> at North-West University<br>
-  🚀 Aspiring <b>Data Scientist</b> & <b>Full-Stack Software Developer</b><br>
-  📍 <b>South Africa</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Xolani+Lwandile+Nxumalo+%F0%9F%91%8B;BSc+IT+Student+%40+NWU+%F0%9F%8D%93;Aspiring+Data+Scientist+%F0%9F%93%8A;Full-Stack+Developer+%F0%9F%92%BB;Based+in+South+Africa+%F0%9F%8C%8D" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
 ### 💫 About Me
 
-* 🏫 **Education:** Currently in my 3rd year pursuing a Bachelor of Science in Information Technology.
+* 🏫 **Education:** Currently in my 3rd year pursuing a Bachelor of Science in Information Technology at North-West University.
 * 💡 **Interests:** Data Science, Relational & Distributed Databases, and Software Development.
 * 🛠️ **Projects:** Building cross-platform mobile apps, web solutions, and managing automated workflows.
 * 🌐 **Mission:** Passionate about bridging tech accessibility through code and multilingual concept sharing.
@@ -22,12 +18,18 @@
 
 ### 🌐 Connect & Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lwandi-xolani-nxumalo-aa9914360)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xolanilwandile3@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/lwandi-xolani-nxumalo-aa9914360">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:xolanilwandile3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### 💻 Featured Projects
+### 💻 Featured Interactive Project
 
 | Project | Description | Live Link |
 | :--- | :--- | :---: |
@@ -35,9 +37,16 @@
 
 ---
 
+### 📂 Latest Repositories
+
+<!-- RECENT_REPOS_START -->
+<!-- RECENT_REPOS_END -->
+
+---
+
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**
+**Languages & Frameworks**  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
@@ -47,21 +56,25 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 
-**Data Science & Databases**
+**Data Science & Databases**  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 
-**Tools & Infrastructure**
+**Tools & Infrastructure**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=white)
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 🏆 Achievements & GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LwandiNxumalo&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LwandiNxumalo&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
@@ -80,7 +93,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
-### 📂 Latest Repositories
+---
 
-<!-- RECENT_REPOS_START -->
-<!-- RECENT_REPOS_END -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LwandiNxumalo&color=0075ff&style=for-the-badge" alt="Visitor Counter" />
+</p>
