@@ -37,6 +37,6 @@ Click on any project badge below to view the repository or live site!
 ![](https://github-contributor-stats.vercel.app/api?username=LwandiNxumalo&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=LwandiNxumalo&icon=6&color=5)](https://visitcount.itsvg.in)
+[![Visitor Counter](https://komarev.com/ghpvc/?username=LwandiNxumalo&icon=6&color=5)]((https://github.com/LwandiNxumalo))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
