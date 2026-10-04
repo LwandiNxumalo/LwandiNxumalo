@@ -27,14 +27,16 @@ Click on any project badge below to view the repository or live site!
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=LwandiNxumalo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![LwandiNxumalo GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LwandiNxumalo&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LwandiNxumalo&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=LwandiNxumalo&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" alt="LwandiNxumalo Contributor Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=LwandiNxumalo&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </p>
 
 ---
