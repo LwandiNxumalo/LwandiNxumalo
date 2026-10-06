@@ -40,11 +40,11 @@
 ### 📂 Latest Repositories
 
 <!-- RECENT_REPOS:START -->
+- [LwandiNxumalo pushed CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/compare/5894405407...6bcb38e22a)
+- [LwandiNxumalo contributed to Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/79)
 - [LwandiNxumalo pushed CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/compare/f655315d20...d58ec66f55)
 - [LwandiNxumalo pushed CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/compare/d80983df22...5894405407)
 - [LwandiNxumalo pushed LwandiNxumalo](https://github.com/LwandiNxumalo/LwandiNxumalo/compare/711269103e...0a7cf656b7)
-- [LwandiNxumalo pushed LwandiNxumalo](https://github.com/LwandiNxumalo/LwandiNxumalo/compare/e66f2d4bcf...711269103e)
-- [LwandiNxumalo pushed LwandiNxumalo](https://github.com/LwandiNxumalo/LwandiNxumalo/compare/102b8efd08...8fd10bde00)
 <!-- RECENT_REPOS:END -->
 
 ---
