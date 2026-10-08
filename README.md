@@ -40,11 +40,11 @@
 ### 📂 Latest Repositories
 
 <!-- RECENT_REPOS:START -->
+- [LwandiNxumalo pushed MyRetailApp](https://github.com/LwandiNxumalo/MyRetailApp/compare/e92d828785...180ef28748)
 - [LwandiNxumalo pushed MyRetailApp](https://github.com/LwandiNxumalo/MyRetailApp/compare/ebb668fa47...af5d4c058a)
 - [LwandiNxumalo pushed MyRetailApp](https://github.com/LwandiNxumalo/MyRetailApp/compare/400d6221f6...ebb668fa47)
 - [LwandiNxumalo pushed CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/compare/5894405407...6bcb38e22a)
 - [LwandiNxumalo contributed to Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/79)
-- [LwandiNxumalo pushed CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/compare/f655315d20...d58ec66f55)
 <!-- RECENT_REPOS:END -->
 
 ---
