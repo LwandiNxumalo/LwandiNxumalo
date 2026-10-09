@@ -40,11 +40,11 @@
 ### 📂 Latest Repositories
 
 <!-- RECENT_REPOS:START -->
+- [LwandiNxumalo closed a pull request in CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/80)
 - [LwandiNxumalo pushed CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/compare/6bcb38e22a...d80983df22)
 - [LwandiNxumalo pushed MyRetailApp](https://github.com/LwandiNxumalo/MyRetailApp/compare/e92d828785...180ef28748)
 - [LwandiNxumalo pushed MyRetailApp](https://github.com/LwandiNxumalo/MyRetailApp/compare/af5d4c058a...e92d828785)
 - [LwandiNxumalo pushed MyRetailApp](https://github.com/LwandiNxumalo/MyRetailApp/compare/ebb668fa47...af5d4c058a)
-- [LwandiNxumalo pushed MyRetailApp](https://github.com/LwandiNxumalo/MyRetailApp/compare/400d6221f6...ebb668fa47)
 <!-- RECENT_REPOS:END -->
 
 ---
