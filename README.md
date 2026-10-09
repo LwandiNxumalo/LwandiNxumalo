@@ -52,11 +52,11 @@
 ### ⚡ Recent Contribution Log
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/79) in [Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System)
-2. 💪 Opened PR [#80](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/80) in [Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System)
-3. 🎉 Merged PR [#78](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/78) in [Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System)
-4. 💪 Opened PR [#79](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/79) in [Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System)
-5. 🗣 Commented on [#78](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/78#issuecomment-5961522214) in [Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System)
+1. ❌ Closed PR [#80](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/80) in [Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System)
+2. 🎉 Merged PR [#79](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/79) in [Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System)
+3. 💪 Opened PR [#80](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/80) in [Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System)
+4. 🎉 Merged PR [#78](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/78) in [Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System)
+5. 💪 Opened PR [#79](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/79) in [Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System)
 <!--END_SECTION:activity-->
 
 ---
