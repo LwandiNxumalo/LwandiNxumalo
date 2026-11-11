@@ -41,7 +41,6 @@
 
 <!-- RECENT_REPOS:START -->
 - [LwandiNxumalo contributed to Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/pull/119)
-- [LwandiNxumalo pushed CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/compare/1dd9da3df7...8b1d960ee9)
 - [LwandiNxumalo pushed CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/compare/740b160ad3...1dd9da3df7)
 - [LwandiNxumalo pushed CMPG323-Courier-Service-Management-and-Tracking-System](https://github.com/Gh0st-y/CMPG323-Courier-Service-Management-and-Tracking-System/compare/3779349a40...9a9d593310)
 <!-- RECENT_REPOS:END -->
